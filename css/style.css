@@ -4,16 +4,17 @@ body {
 
     font-family: 'Roboto', sans-serif;
     background-color: #131313;
+    ;
 }
 
 h1 {
 font-family: 'Roboto', sans-serif;
-
+padding-left: 9%;
 color: white;
 }
 
 .media-picture  {
-height: 530px;
+height: 400px;
 }
 
 img{
@@ -33,20 +34,30 @@ img{
     color: white;
     background-color: #e6bd09;
     padding: 12px;
-
+}
+.review-score1 {
+    color: white;
+    padding-left: 131px;
 }
 
 h2 {
 
     color: steelblue;
+    padding-left: 9%;
+    padding-right: 9%;
 }
 
 p {
     color: #bdbdbd;
     font: 'Roboto';
+    padding-left: 9%;
+    padding-right: 9%;
+    text-align: justify;
 }
 
 a {
     color: yellow;
+    padding-left: 9%;
+    padding-right: 9%;
 }
 
