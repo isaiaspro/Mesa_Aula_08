@@ -15,7 +15,7 @@ color: white;
 
 .media-picture  {
 height: 400px;
-background-image: url(/img/Avengers_cover_1920x400.png);
+background-image: url(https://raw.githubusercontent.com/isaiaspro/Mesa_Aula_08/master/img/Avengers_cover_1920x400.png);
 background-size: cover;
 }
 
